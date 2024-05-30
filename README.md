@@ -6,7 +6,7 @@ Hello world! I'm a PhD student at University of Galway. I'm quite far away from 
 - Nationality: Mexican
 - Industry: Biomedical Engineering
 - I love JRPGS. Current favorites are:
- - Xenoblade Chronicles 1 - 3 
+> -  Xenoblade Chronicles 1 - 3 
 
 >[!note]
 >To be honest, I'm just shy that my code is just mid...
