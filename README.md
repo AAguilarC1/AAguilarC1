@@ -13,7 +13,7 @@ Hello world! I'm a PhD student at University of Galway. I'm quite far away from 
 
 # Work!!
 - I'm currently working on mostly my PhD project
-- Trying to learn WASM and Rust on my free time (I still don't understand Rust AT AL!)
+- Trying to learn WASM and Rust on my free time (I still don't understand Rust AT ALL!)
 
  
 
